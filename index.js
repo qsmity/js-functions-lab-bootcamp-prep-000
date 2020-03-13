@@ -4,8 +4,11 @@ function happyHolidays(){
   return "happy holidays!"
 }
 
-var name = "john";
-function happyHolidaysTo(name){
-  return `Happy holidays, ${name}!` 
+var name1 = "john";
+function happyHolidaysTo(name1){
+  return `Happy holidays, ${name1}!` 
 }
 
+function happyCustomHoldayTo(christmas, name2){
+  
+}
