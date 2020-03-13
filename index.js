@@ -1,20 +1,21 @@
 // write your code below!
 
 function happyHolidays(){
-  return "happy holidays!"
+  return "Happy holidays!"
 }
 
 var name1 = "john";
 var name2 = "rand";
 var days = 4;
+var holiday = quanza
 function happyHolidaysTo(name1){
   return `Happy holidays, ${name1}!` 
 }
 
-function happyCustomHoldayTo(christmas, name2){
-  return `Happy ${christmas}, ${name2}!`
+function happyCustomHoldayTo(holiday, name2){
+  return `Happy ${holiday}, ${name2}!`
 }
 
-function holidayCountdown(quanza, days){
-  return `It's ${days} until ${quanza}!`
+function holidayCountdown(holiday, days){
+  return `It's ${days} until ${holiday}!`
 }
