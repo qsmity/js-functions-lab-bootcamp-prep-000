@@ -6,6 +6,7 @@ function happyHolidays(){
 
 var name1 = "john";
 var name2 = "rand";
+var days = 4;
 function happyHolidaysTo(name1){
   return `Happy holidays, ${name1}!` 
 }
